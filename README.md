@@ -1,4 +1,4 @@
-<img align="right" height="380" src="https://github.com/AlanYoshiaki/my-assets/blob/e53e61d6a737ab219f78667e2187bccf7a25a3c0/4a4232119ac76092c166f39ef53b45-unscreen.gif">
+<img align="right" height="380" src="https://github.com/AlanYoshiaki/my-assets/blob/1130c48ff4e528bd9b61462e229d452c443d54f9/rubber-duck.gif">
 
 <h1>
     <img align="center" width="45px" src="https://cdn-icons-png.flaticon.com/128/10944/10944419.png"></a>
