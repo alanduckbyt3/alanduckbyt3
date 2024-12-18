@@ -9,7 +9,7 @@
 
 <p align="justify">
   I am a Cybersecurity student with basic knowledge in Information Technology (IT) in general. I have completed a technical course in Computer Maintenance and participated
-  in Cisco's Introduction and Essentials to Cybersecurity courses, as well as the ACAD TI courses. I have also gained knowledge in Computer Networks and Network Security, both from Cisco.
+  in Cisco's Introduction and Essentials to Cybersecurity courses, as well as the ACADI TI courses. I have also gained knowledge in Computer Networks and Network Security, both from Cisco.
   I have a foundation in several programming languages and the Linux operating system. 
   <br><br>
   I am passionate about helping people solve problems and am constantly striving to improve both my hard and soft skills. My first "Hello World" was in Python, through the "Curso em Vídeo" channel. 
@@ -23,7 +23,7 @@
 
 <p align="justify">
   Estudante de Cybersegurança, com conhecimentos básicos em Tecnologia da Informação (T.I) de forma geral. Realizei o curso técnico de Manutenção de Computadores e participei dos cursos
-  de Introdução e Essenciais à Cybersegurança da Cisco e da ACAD T.I. Também adquiri conhecimentos em Redes de Computadores e Segurança de Redes, ambos pela Cisco. Tenho uma base em algumas
+  de Introdução e Essenciais à Cybersegurança da Cisco e da ACADI T.I. Também adquiri conhecimentos em Redes de Computadores e Segurança de Redes, ambos pela Cisco. Tenho uma base em algumas
   linguagens de programação e no sistema operacional Linux. 
   <br><br>
   Sou apaixonado por ajudar as pessoas a resolverem problemas, e estou sempre em busca de melhorar minhas hard skills e soft skills. Meu primeiro "Hello World" foi em Python, através do canal "Curso em Vídeo". 
