@@ -1,8 +1,8 @@
-<img align="right" height="380" src="https://github.com/AlanYoshiaki/my-assets/blob/1130c48ff4e528bd9b61462e229d452c443d54f9/rubber-duck.gif">
+<img align="right" height="380" src="https://github.comalanduckbyt3/my-assets/blob/1130c48ff4e528bd9b61462e229d452c443d54f9/rubber-duck.gif">
 
 <h1>
     <img align="center" width="45px" src="https://cdn-icons-png.flaticon.com/128/10944/10944419.png"></a>
-    <span>AlanYoshiaki</span>
+    <span>alanduckbyt3</span>
 </h1>
 
 ### 🇺🇸 **English**
@@ -50,9 +50,9 @@ I decided to expand the scope of the challenge. In this project, you will learn 
 
 ### ✨ GitHub Stats
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlanYoshiaki&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alanduckbyt3&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlanYoshiaki&layout=compact&langs_count=6&hide_title=true&bg_color=000000&title_color=FF00F6&text_color=FFFFFF&border_radius=3&border_color=36123c&icon_color=FF00F6)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alanduckbyt3&layout=compact&langs_count=6&hide_title=true&bg_color=000000&title_color=FF00F6&text_color=FFFFFF&border_radius=3&border_color=36123c&icon_color=FF00F6)
 
 ### 📭 Connect with me (Coming soon)
 
