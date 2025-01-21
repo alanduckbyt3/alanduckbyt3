@@ -56,7 +56,7 @@ I decided to expand the scope of the challenge. In this project, you will learn 
 
 ### 📭 Connect with me (Coming soon)
 
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/alan-araujo-725612348/)
 ![WebSite](https://img.shields.io/badge/-WebSite-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)
 
 ### 💻  Technologies I Use
