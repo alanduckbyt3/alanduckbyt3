@@ -54,7 +54,7 @@ I decided to expand the scope of the challenge. In this project, you will learn 
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alanduckbyt3&layout=compact&langs_count=6&hide_title=true&bg_color=000000&title_color=FF00F6&text_color=FFFFFF&border_radius=3&border_color=36123c&icon_color=FF00F6)
 
-### 📭 Connect with me (Coming soon)
+### 📭 Connect with me (Website coming soon)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/alan-araujo-725612348/)
 ![WebSite](https://img.shields.io/badge/-WebSite-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)
